@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<Restaurant>
+    <Racoritoare>
+        <Nume>fanta</Nume>
+        <Cantitate>330</Cantitate>
+        <Tip>acidulata</Tip>
+        <Pret>6.0</Pret>
+    </Racoritoare>
+    <Racoritoare>
+        <Nume>coca cola</Nume>
+        <Cantitate>330</Cantitate>
+        <Tip>acidulata</Tip>
+        <Pret>6.0</Pret>
+    </Racoritoare>
+    <Racoritoare>
+        <Nume>apa</Nume>
+        <Cantitate>330</Cantitate>
+        <Tip>neacidulata</Tip>
+        <Pret>5.0</Pret>
+    </Racoritoare>
+    <BauturiAlcoolice>
+        <Nume>bere</Nume>
+        <Cantitate>500</Cantitate>
+        <Volum_alcol>5.0</Volum_alcol>
+        <Pret>6.0</Pret>
+    </BauturiAlcoolice>
+    <BauturiAlcoolice>
+        <Nume>whisky</Nume>
+        <Cantitate>50</Cantitate>
+        <Volum_alcol>45.0</Volum_alcol>
+        <Pret>15.0</Pret>
+    </BauturiAlcoolice>
+    <BauturiAlcoolice>
+        <Nume>vodka</Nume>
+        <Cantitate>50</Cantitate>
+        <Volum_alcol>50.0</Volum_alcol>
+        <Pret>13.0</Pret>
+    </BauturiAlcoolice>
+    <Fel1>
+        <Nume>ciorba de perisoare</Nume>
+        <Cantitate>150.0</Cantitate>
+        <Ingrediente>perisoare,rosii,verdeata</Ingrediente>
+        <Pret>12.0</Pret>
+    </Fel1>
+    <Fel1>
+        <Nume>ciorba de legume </Nume>
+        <Cantitate>250.0</Cantitate>
+        <Ingrediente>rosii,cartof,leustean,bors</Ingrediente>
+        <Pret>11.0</Pret>
+    </Fel1>
+    <Fel1>
+        <Nume>supa de galuste</Nume>
+        <Cantitate>200.0</Cantitate>
+        <Ingrediente>supa,galuste</Ingrediente>
+        <Pret>10.0</Pret>
+    </Fel1>
+    <Fel2>
+        <Nume>piept de pui</Nume>
+        <Cantitate>120.0</Cantitate>
+        <Garnitura>cartofi copti</Garnitura>
+        <Pret>11.0</Pret>
+    </Fel2>
+    <Fel2>
+        <Nume>ceafa de porc</Nume>
+        <Cantitate>250.0</Cantitate>
+        <Garnitura>cartofi parajiti</Garnitura>
+        <Pret>19.0</Pret>
+    </Fel2>
+    <Fel2>
+        <Nume>carnati</Nume>
+        <Cantitate>180.0</Cantitate>
+        <Garnitura>cartofi copti</Garnitura>
+        <Pret>17.0</Pret>
+    </Fel2>
+    <Desert>
+        <Nume>amandina</Nume>
+        <Cantitate>230.0</Cantitate>
+        <Pret>9.0</Pret>
+    </Desert>
+    <Desert>
+        <Nume>ecler</Nume>
+        <Cantitate>150.0</Cantitate>
+        <Pret>12.0</Pret>
+    </Desert>
+    <Desert>
+        <Nume>tiramisu</Nume>
+        <Cantitate>150.0</Cantitate>
+        <Pret>12.0</Pret>
+    </Desert>
+</Restaurant>
